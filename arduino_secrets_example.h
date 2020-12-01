@@ -1,0 +1,6 @@
+#define SECRET_SSID "Wifi-name"
+#define SECRET_PASS "Wifi-pass"
+#define SECRET_SERVER_URL "blynk.example.com"
+#define SECRET_APIKEY "apikey"
+#define DEVICE_NAME "ESP1202"
+#define SOFT_VERSION "V1_A1"
